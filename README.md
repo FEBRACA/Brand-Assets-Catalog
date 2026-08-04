@@ -28,7 +28,7 @@ Three things, in order:
 └── README.md
 ```
 
-The manual is the source of truth on which files exist and what each one represents. Consult it before assuming a variation is available.
+The manual is the source of truth on which files exist and what each one represents. Consult it before assuming a variation is available. You may access the manual through: [ManualDeMarca-Simples.pdf - Google Drive](https://drive.google.com/file/d/1gqDwaM7m0QMSei0IeDCA13-Y2tPncZzE/view)
 
 ---
 
