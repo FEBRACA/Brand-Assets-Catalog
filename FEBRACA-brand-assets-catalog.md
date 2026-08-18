@@ -14,13 +14,13 @@ All lowercase, hyphen-separated, no accents, no spaces, no underscores — safe 
 
 Icon at left, "FEBRACA" wordmark at right, no descriptor. The compact primary lockup.
 For site headers, presentation footers, narrow strips and anywhere the full name is already established.
-Ratio 2.76:1 · landscape · transparent background.
+Ratio 2.76:1 · landscape · transparent background. Raw Marging Proportion: 40%
 
 ### `febraca-logo-horizontal-tagline.svg` / `logo_vertical.svg`
 
 Icon at left; wordmark on top with the three-line descriptor stacked beneath it, after the orange rule.
 The standard institutional lockup — documents, letterheads, reports, official materials.
-Ratio 2.22:1 · landscape despite the old "vertical" filename · transparent background.
+Ratio 2.22:1 · landscape despite the old "vertical" filename · transparent background. Raw Marging Proportion: 30%
 
 ### `febraca-logo-horizontal-wide-tagline.svg` / `logo_centralizado.svg`
 
