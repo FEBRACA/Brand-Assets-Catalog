@@ -26,7 +26,7 @@ Ratio 2.22:1 · landscape despite the old "vertical" filename · transparent bac
 
 Single-line band: wordmark at left, icon in the middle, orange rule, then the descriptor at right.
 The widest asset in the set — email signatures, banner strips, website footers, event backdrops.
-Ratio 3.45:1 · landscape · transparent background.
+Ratio 3.45:1 · landscape · transparent background. Raw Marging Proportions: 40%
 
 ## Square lockups
 
