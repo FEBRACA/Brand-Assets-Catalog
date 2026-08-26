@@ -73,4 +73,6 @@ Questions, specific authorisations or reports of misuse: **[contato@febraca.org.
 
 © [2026] Federação Brasileira da Causa Animal. All rights reserved.
 
-*#TransformarParaImpactar*
+*#VamosJuntosTransformarACausaAnimal*
+
+
