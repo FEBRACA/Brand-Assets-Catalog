@@ -14,19 +14,19 @@ All lowercase, hyphen-separated, no accents, no spaces, no underscores — safe 
 
 Icon at left, "FEBRACA" wordmark at right, no descriptor. The compact primary lockup.
 For site headers, presentation footers, narrow strips and anywhere the full name is already established.
-Ratio 2.76:1 · landscape · transparent background. Raw Marging Proportion: 40%
+Ratio 2.97:1 · landscape · transparent background. Raw Margin Proportion: 40%
 
 ### `febraca-logo-horizontal-tagline` / `logo_vertical`
 
 Icon at left; wordmark on top with the three-line descriptor stacked beneath it, after the orange rule.
 The standard institutional lockup — documents, letterheads, reports, official materials.
-Ratio 2.22:1 · landscape despite the old "vertical" filename · transparent background. Raw Marging Proportion: 30%
+Ratio 2.70:1 · landscape despite the old "vertical" filename · transparent background. Raw Margin Proportion: 40%
 
 ### `febraca-logo-horizontal-wide-tagline` / `logo_centralizado`
 
 Single-line band: wordmark at left, icon in the middle, orange rule, then the descriptor at right.
 The widest asset in the set — email signatures, banner strips, website footers, event backdrops.
-Ratio 3.45:1 · landscape · transparent background. Raw Marging Proportions: 40%
+Ratio 4.20:1 · landscape · transparent background. Raw Margin Proportion: 40%
 
 ## Square lockups
 
@@ -34,13 +34,13 @@ Ratio 3.45:1 · landscape · transparent background. Raw Marging Proportions: 40
 
 Icon at left with the wordmark broken across three lines (FE / BRA / CA), no descriptor.
 For square and portrait spaces where the horizontal lockup would render too small — social posts, tote bags, signage.
-Ratio 1.03:1 · effectively square · transparent background.
+Ratio 1.29:1 · landscape · transparent background.
 
 ### `febraca-logo-square-tagline` / `logo_verticalizado`
 
 Same construction as above, with the three-line descriptor added below after the orange rule.
 The square counterpart of the institutional lockup, for feed posts and covers that need the full name.
-Ratio 0.97:1 · effectively square, not portrait as the old filename suggests · transparent background.
+Ratio 1.07:1 · near-square, slightly landscape — not portrait as the old filename suggests · transparent background.
 
 ## Cards and badge
 
@@ -60,7 +60,7 @@ Ratio 1:1 · background is part of the artwork (`#FFFFFF`), not transparent.
 
 Circular seal: outlined map with orange pata at the center, full institutional name set around the ring.
 Formal seal applications — certificates, stamps, medals, member seals, stickers.
-Ratio 0.96:1 · transparent background.
+Ratio 0.91:1 · transparent background.
 
 ## Icons (symbol only)
 
@@ -68,7 +68,7 @@ Ratio 0.96:1 · transparent background.
 
 Brazil as a navy contour with the solid orange pata sitting inside the southeast region.
 Lightest visual weight in the set — watermarks, large-format backgrounds, light layouts, line-art contexts.
-Ratio 0.88:1 · replaces the old `icone_-_macro_interno.png`, where the pata overhung the border.
+Ratio 0.94:1 · replaces the old `icone_-_macro_interno.png`, where the pata overhung the border.
 
 ### `febraca-icon-solid` / `icone_minimalista`
 
@@ -88,13 +88,13 @@ Ratio 0.98:1 · transparent background.
 
 Campaign phrase "EU [pata] ANIMAIS", the orange pata standing in for the verb, endorsed by a small icon + FEBRACA signature at lower right.
 For public-facing mobilization — social campaigns, t-shirts, placards, stickers, awareness pieces.
-Ratio 3.00:1 · a campaign mark, not a substitute for the institutional logo.
+Ratio 3.15:1 · a campaign mark, not a substitute for the institutional logo.
 
 ### `febraca-campaign-eu-ongs` / `eu_ongs`
 
 Same construction with "ONGS" in place of "ANIMAIS" — aimed at member organizations rather than the general public.
 For filiation drives, ONG-facing materials, event badges and capacity-building programs.
-Ratio 2.51:1 · transparent background.
+Ratio 2.52:1 · transparent background.
 
 ## Patterns
 
