@@ -116,7 +116,7 @@ Tilted solid navy Brazil silhouettes with the pata knocked out in white, packed 
 The heaviest treatment — full-bleed covers, endpapers, banners, merchandise; too dense to sit behind body copy.
 Ratio 2.39:1 · single color `#212B5E` · finished panel, not a seamless repeat tile.
 
-### `febraca-logo-horizontal-wide-tagline-iconleft` / `logo`
+### `febraca-logo-horizontal-wide-tagline-iconleft` / `logo` (default for headers)
 
 Single-line band: icon at left, wordmark in the middle, orange rule, then the descriptor at right.
 The wide lockup in reading order, led by the symbol — email signatures, banner strips, website headers and footers, event backdrops.
